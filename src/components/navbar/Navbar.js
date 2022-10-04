@@ -1,25 +1,20 @@
 import React from "react";
 import CartWidget from "./CartWidget";
-
+import { Link } from "react-router-dom";
 const Navbar = () => {
     return (
         <div className="navbar bg-base-100">
             <div className="flex-1">
-                <a className="text-xl normal-case btn btn-ghost">
-                    DR ecommerce{" "}
-                </a>
+                <Link to={"/"}>DR ecommerce </Link>
             </div>
             <div className="flex-none">
-                <div class="flex-none">
-                    <ul class="menu menu-horizontal p-0">
+                <div className="flex-none">
+                    <ul className="menu menu-horizontal p-0">
                         <li>
-                            <a>Item 1</a>
+                            <Link to={"/category/1"}>Nintendo Switch</Link>
                         </li>
                         <li>
-                            <a>Item 2</a>
-                        </li>
-                        <li>
-                            <a>Item 3</a>
+                            <Link to={"/category/2"}>Playstation</Link>
                         </li>
                     </ul>
                 </div>

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Preventa Pokemon Violet - Nintendo Switch",
+        "console": "Nintendo Switch",
+        "price": "54.990",
+        "type": "Aventura,juego de rol",
+        "category": 1,
+        "img": "1-product.webp",
+        "new": true
+    },
+    {
+        "id": 2,
+        "name": "Preventa Pokemon Scarlet - Nintendo Switch",
+        "console": "Nintendo Switch",
+        "price": "54.990",
+        "type": "Aventura,juego de rol",
+        "category": 1,
+        "img": "2-product.webp",
+        "new": true
+    },
+    {
+        "id": 3,
+        "name": "Splatoon 3 - Switch - Físico",
+        "console": "Nintendo Switch",
+        "price": "54.990",
+        "type": "Aventura,juego de rol",
+        "category": 1,
+        "img": "3-product.jpg",
+        "new": true
+    },
+    {
+        "id": 4,
+        "name": "God Of War Ragnarok - Playstation 5",
+        "console": "Playstation 5",
+        "price": "64.990",
+        "type": "Accion,Aventura",
+        "category": 2,
+        "img": "4-product.webp",
+        "new": true
+    },
+    {
+        "id": 5,
+        "name": "FIFA 23 - Físico - Playstation 5",
+        "console": "Playstation 5",
+        "price": "69.990",
+        "type": "Deporte,Simulador",
+        "category": 2,
+        "img": "5-product.webp",
+        "new": true
+    },
+    {
+        "id": 6,
+        "name": "FIFA 23 - Físico - Playstation 5",
+        "console": "Playstation 5",
+        "price": "69.990",
+        "type": "Deporte,Simulador",
+        "category": 2,
+        "img": "5-product.webp",
+        "new": false
+    }
+]
